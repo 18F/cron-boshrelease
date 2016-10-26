@@ -35,6 +35,7 @@ properties:
       day: '*'
       month: '*'
       wday: '*'
+      user: root
 ```
 
 When deployed, this release will generate a crontab, stick it in /etc/cron.d/cron-boshrelease-crontab, and reload the running cron process to read the new crontab.
