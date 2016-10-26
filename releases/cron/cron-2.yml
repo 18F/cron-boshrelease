@@ -4,12 +4,12 @@ jobs:
 - name: cron
   version: 8a2952db48b854001b3b9770b4fbe2275c88fa30
   fingerprint: 8a2952db48b854001b3b9770b4fbe2275c88fa30
-  sha1: 3fc0ee7ef7aed63e6160ed0de9bc9e924a451025
+  sha1: bd425e309504ad115f39acdb786fc74209cde95b
 license:
   version: a11dc44d2ff75b964daf257650268340e4c5ba39
   fingerprint: a11dc44d2ff75b964daf257650268340e4c5ba39
-  sha1: 9edd13edc4124bee24508ead5a2d583dbceb5f15
-commit_hash: 1b820ee6
+  sha1: 40585507c336334d68c48b75a2e1f37c8a15d28d
+commit_hash: 82a96a2a
 uncommitted_changes: true
 name: cron
-version: '1'
+version: '2'
