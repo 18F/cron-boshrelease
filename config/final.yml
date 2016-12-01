@@ -2,5 +2,7 @@
 blobstore:
   provider: s3
   options:
-    bucket_name: cron-boshrelease
+    bucket_name: cloud-gov-release-blobstore
+    region: us-gov-west-1
+    endpoint: https://s3-us-gov-west-1.amazonaws.com
 final_name: cron
